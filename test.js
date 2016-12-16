@@ -1,0 +1,1 @@
+curl --data "title=test&author=test" http://localhost:3000/posts/
